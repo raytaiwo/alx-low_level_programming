@@ -1,1 +1,1 @@
-Script that runs a C file through preprocessor
+0x00. C - Hello, World

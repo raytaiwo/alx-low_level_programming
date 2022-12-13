@@ -1,9 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_alphabet - function that prints the alphabet, lowercase
- * You can only use _putchar twice in your code
- * Return: nothing.
+ * _putchar to be used only twice.
+ * Return: Nothing.
  */
 
 void print_alphabet(void)

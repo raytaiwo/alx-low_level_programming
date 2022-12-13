@@ -7,3 +7,5 @@
 * Scope of variables
 * What are the gcc flags -Wall -Werror -pedantic -Wextra
 * What are header files and how to to use them with #include
+
+Task 0: _Putcher
